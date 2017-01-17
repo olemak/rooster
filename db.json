@@ -1,0 +1,117 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "products": [
+	{ 
+		"IndexId": "25449_nb-NO",
+		"Id":25449,
+		"Code":"8200-14",
+		"Name":"lofoten Gore-Tex PrimaLoft Jacket (Jr)",
+		"MainColor":"3440",
+		"DisplayName":"lofoten Gore-Tex PrimaLoft Jacket (Jr)",
+		"NormalizedDisplayName":"lofoten GoreTex PrimaLoft Jacket (Jr)",
+		"Language":"nb-NO",
+		"Subtitle":"Vår varmeste vanntette skijakke til barn/junior",
+		"MainIntro":"Vår varmeste vanntette skijakke, nå også for barn/junior. Dette er\njakken for alle barn som ønsker en lett og\nsmidig jakke som er varm, men samtidig\nfunksjonell, vanntett og med alle kritiske\ndetaljer som trengs i en skijakke. Laget i\npustende GORE-TEX® med PrimaLoft® Silver Insulation, er dette et ypperlig valg når du\nskal ut på ski eller snowboard på dager\nder temperaturen kryper nedover.",
+		"ProductUrlFeeds":"https://www.norrona.com/https://www.norrona.com/nb-NO/produkter/lofoten/lofoten-gore-tex-primaloft-jacket-jr/",
+		"ProductUrl":"https://www.norrona.com/nb-NO/produkter/lofoten/lofoten-gore-tex-primaloft-jacket-jr/",
+		"MainVariant":{
+			"Id":25450,
+			"Name":null,
+			"Color":{
+				"Code":"3440",
+				"HexCode":"#68a530",
+				"Name":"Bamboo Green",
+				"AdName":"Green",
+				"SearchName":"Green",
+				"SortOrder":0
+			},
+			"Size":"9",
+			"SizeSort":9,
+			"IsNew":false,
+			"Prices":[
+				{"Price":"419,00","MarkedId":"AUT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"490,00","MarkedId":"CAN","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"469,00","MarkedId":"CHE","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"490,00","MarkedId":"DEFAULT","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"469,00","MarkedId":"DEFAULT","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"2999,00","MarkedId":"DEFAULT","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"419,00","MarkedId":"DEFAULT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"299,00","MarkedId":"DEFAULT","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"49000,00","MarkedId":"DEFAULT","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"3499,00","MarkedId":"DEFAULT","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"3699,00","MarkedId":"DEFAULT","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"420,00","MarkedId":"DEFAULT","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"419,00","MarkedId":"DEU","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"2999,00","MarkedId":"DNK","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"419,00","MarkedId":"FIN","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"419,00","MarkedId":"FRA","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"299,00","MarkedId":"GBR","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"49000,00","MarkedId":"JPN","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"3499,00","MarkedId":"NOR","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"3499,00","MarkedId":"SJM","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"3699,00","MarkedId":"SWE","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},
+				{"Price":"420,00","MarkedId":"USA","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""}
+			],
+			"Code":"8200-14 3440 134",
+			"Stocks":[
+				{"Code":"8200-14 3440 134","Size":"134","SizeSort":9,"Units":4.0,"Ean":null},
+				{"Code":"8200-14 3440 140","Size":"140","SizeSort":10,"Units":16.0,"Ean":null},
+				{"Code":"8200-14 3440 146","Size":"146","SizeSort":11,"Units":26.0,"Ean":null},
+				{"Code":"8200-14 3440 152","Size":"152","SizeSort":12,"Units":14.0,"Ean":null},
+				{"Code":"8200-14 3440 158","Size":"158","SizeSort":13,"Units":7.0,"Ean":null}
+			],
+			"SmallImageUrl":"https://res-1.cloudinary.com/norrona/image/upload/c_pad,d_imgmissing.jpg,f_auto,fl_progressive,g_south,h_288,q_80,w_210/8200143440.jpg"
+		},
+		"Variants": 
+		[
+			{"Id":25450,"Name":null,"Color":{"Code":"3440","HexCode":"#68a530","Name":"Bamboo Green","AdName":"Green","SearchName":"Green","SortOrder":0},"Size":"9","SizeSort":9,"IsNew":false,"Prices":[{"Price":"419,00","MarkedId":"AUT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"490,00","MarkedId":"CAN","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"469,00","MarkedId":"CHE","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"490,00","MarkedId":"DEFAULT","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"469,00","MarkedId":"DEFAULT","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"2999,00","MarkedId":"DEFAULT","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"DEFAULT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"299,00","MarkedId":"DEFAULT","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"49000,00","MarkedId":"DEFAULT","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"DEFAULT","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3699,00","MarkedId":"DEFAULT","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"420,00","MarkedId":"DEFAULT","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"DEU","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"2999,00","MarkedId":"DNK","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"FIN","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"FRA","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"299,00","MarkedId":"GBR","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"49000,00","MarkedId":"JPN","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"NOR","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"SJM","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3699,00","MarkedId":"SWE","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"420,00","MarkedId":"USA","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""}],"Code":"8200-14 3440 134","Stocks":[{"Code":"8200-14 3440 134","Size":"134","SizeSort":9,"Units":4.0,"Ean":null},{"Code":"8200-14 3440 140","Size":"140","SizeSort":10,"Units":16.0,"Ean":null},{"Code":"8200-14 3440 146","Size":"146","SizeSort":11,"Units":26.0,"Ean":null},{"Code":"8200-14 3440 152","Size":"152","SizeSort":12,"Units":14.0,"Ean":null},{"Code":"8200-14 3440 158","Size":"158","SizeSort":13,"Units":7.0,"Ean":null}],"SmallImageUrl":"https://res-1.cloudinary.com/norrona/image/upload/c_pad,d_imgmissing.jpg,f_auto,fl_progressive,g_south,h_288,q_80,w_210/8200143440.jpg"},
+			{"Id":26000,"Name":null,"Color":{"Code":"2325","HexCode":"#232e4a","Name":"Ocean Swell","AdName":"Blue","SearchName":"Blue","SortOrder":0},"Size":"9","SizeSort":9,"IsNew":true,"Prices":[{"Price":"419,00","MarkedId":"AUT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"490,00","MarkedId":"CAN","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"469,00","MarkedId":"CHE","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"490,00","MarkedId":"DEFAULT","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"469,00","MarkedId":"DEFAULT","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"2999,00","MarkedId":"DEFAULT","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"DEFAULT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"299,00","MarkedId":"DEFAULT","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"49000,00","MarkedId":"DEFAULT","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"DEFAULT","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3699,00","MarkedId":"DEFAULT","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"420,00","MarkedId":"DEFAULT","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"DEU","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"2999,00","MarkedId":"DNK","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"FIN","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"FRA","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"299,00","MarkedId":"GBR","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"49000,00","MarkedId":"JPN","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"NOR","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"SJM","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3699,00","MarkedId":"SWE","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"420,00","MarkedId":"USA","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""}],"Code":"8200-14 2325 134","Stocks":[{"Code":"8200-14 2325 134","Size":"134","SizeSort":9,"Units":49.0,"Ean":null},{"Code":"8200-14 2325 140","Size":"140","SizeSort":10,"Units":58.0,"Ean":null},{"Code":"8200-14 2325 146","Size":"146","SizeSort":11,"Units":85.0,"Ean":null},{"Code":"8200-14 2325 152","Size":"152","SizeSort":12,"Units":80.0,"Ean":null},{"Code":"8200-14 2325 158","Size":"158","SizeSort":13,"Units":71.0,"Ean":null}],"SmallImageUrl":"https://res-4.cloudinary.com/norrona/image/upload/c_pad,d_imgmissing.jpg,f_auto,fl_progressive,g_south,h_288,q_80,w_210/8200142325.jpg"},
+			{"Id":26005,"Name":null,"Color":{"Code":"5560","HexCode":"#FA8F1D","Name":"Orange Crush","AdName":"Orange","SearchName":"Orange","SortOrder":0},"Size":"9","SizeSort":9,"IsNew":true,"Prices":[{"Price":"419,00","MarkedId":"AUT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"490,00","MarkedId":"CAN","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"469,00","MarkedId":"CHE","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"490,00","MarkedId":"DEFAULT","CurrencyCode":"CAD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"469,00","MarkedId":"DEFAULT","CurrencyCode":"CHF","CurrencySymbol":"fr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"2999,00","MarkedId":"DEFAULT","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"DEFAULT","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"299,00","MarkedId":"DEFAULT","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"49000,00","MarkedId":"DEFAULT","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"DEFAULT","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3699,00","MarkedId":"DEFAULT","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"420,00","MarkedId":"DEFAULT","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"DEU","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"2999,00","MarkedId":"DNK","CurrencyCode":"DKK","CurrencySymbol":"kr.","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"FIN","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"419,00","MarkedId":"FRA","CurrencyCode":"EUR","CurrencySymbol":"€","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"299,00","MarkedId":"GBR","CurrencyCode":"GBP","CurrencySymbol":"£","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"49000,00","MarkedId":"JPN","CurrencyCode":"JPY","CurrencySymbol":"¥","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"NOR","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3499,00","MarkedId":"SJM","CurrencyCode":"NOK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"3699,00","MarkedId":"SWE","CurrencyCode":"SEK","CurrencySymbol":"kr","PriceTypeId":"AllCustomers","PriceCode":""},{"Price":"420,00","MarkedId":"USA","CurrencyCode":"USD","CurrencySymbol":"$","PriceTypeId":"AllCustomers","PriceCode":""}],"Code":"8200-14 5560 134","Stocks":[{"Code":"8200-14 5560 134","Size":"134","SizeSort":9,"Units":21.0,"Ean":null},{"Code":"8200-14 5560 140","Size":"140","SizeSort":10,"Units":29.0,"Ean":null},{"Code":"8200-14 5560 146","Size":"146","SizeSort":11,"Units":30.0,"Ean":null},{"Code":"8200-14 5560 152","Size":"152","SizeSort":12,"Units":31.0,"Ean":null},{"Code":"8200-14 5560 158","Size":"158","SizeSort":13,"Units":24.0,"Ean":null}],"SmallImageUrl":"https://res-4.cloudinary.com/norrona/image/upload/c_pad,d_imgmissing.jpg,f_auto,fl_progressive,g_south,h_288,q_80,w_210/8200145560.jpg"}
+		],
+		"DefaultInventory":545.0,
+		"Sex":"Junior",
+		"IsNew":false,
+		"IsNewInt":0,
+		"Price":3499,
+		"ConceptSortOrder":2,
+		"CategorySortorder":2,
+		"DesignedForSortOrder":2,
+		"PropertiesSortOrder":2,
+		"SeasonSortOrder":1,
+		"Concept":"lofoten",
+		"CategoriesList":[
+			"Jackets"
+		],
+		"DesignedForList":[
+			"Ski/Snowboard"
+		],
+		"PropertiesList":[
+			"Waterproof","Wind resistant"
+		],
+		"SeasonsList":[
+			"Fall/Winter"
+		],
+		"Windproofness":6,
+		"Waterproofness":6,
+		"Insulation":4,
+		"Breathability":3,
+		"Durability":4,
+		"Lightweight":3,
+		"Elastic":1,
+		"MoistureManagment":0,
+		"WarmthToWeightRatio":0,
+		"LocalizedSearchText":"8200-14 lofoten Gore-Tex PrimaLoft Jacket (Jr) 3440\r\nVår varmeste vanntette skijakke til barn/junior\r\nVår varmeste vanntette skijakke, nå også for barn/junior. Dette er\njakken for alle barn som ønsker en lett og\nsmidig jakke som er varm, men samtidig\nfunksjonell, vanntett og med alle kritiske\ndetaljer som trengs i en skijakke. Laget i\npustende GORE-TEX® med PrimaLoft® Silver Insulation, er dette et ypperlig valg når du\nskal ut på ski eller snowboard på dager\nder temperaturen kryper nedover.\r\nSki Snowboard\r\nJakker\r\nVanntett Vindtett\r\nHøst vinter\r\nJunior\r\nNorrøna lofoten Gore-Tex PrimaLoft skijakke til barn / junior\r\nGore-Tex skijakke fra Norrøna til barn / junior. Vanntett og vindtett jakke som holder varmen svært godt. Holder deg tørr fra regn og snø samtidig som den holder deg varm under kalde vinterdager i fjellet. God bevegelighet gjør dette til en meget solid frikjøringsjakke. \r\n",
+		"MetaTitle":"Norrøna lofoten Gore-Tex PrimaLoft skijakke til barn / junior",
+		"MetaDescription":"Gore-Tex skijakke fra Norrøna til barn / junior. Vanntett og vindtett jakke som holder varmen svært godt. Holder deg tørr fra regn og snø samtidig som den holder deg varm under kalde vinterdager i fjellet. God bevegelighet gjør dette til en meget solid frikjøringsjakke. ",
+		"MetaKeywords":null,
+		"SearchHitUrl":"https://www.norrona.com/nb-NO/produkter/lofoten/lofoten-gore-tex-primaloft-jacket-jr/",
+		"SearchTitle":"lofoten Gore-Tex PrimaLoft Jacket (Jr)"
+	}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}

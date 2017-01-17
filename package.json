@@ -1,0 +1,31 @@
+{
+  "name": "rooster",
+  "version": "1.0.0",
+  "description": "A Quick Start for ecommerce projects using Geta Components as building blicks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olemak/rooster/"
+  },
+  "keywords": [
+    "ecommerce",
+    "react",
+    "webpack",
+    "webcomponents",
+    "javascript",
+    "ES2015",
+    "CSS3",
+    "HTML5",
+    "EPi"
+  ],
+  "author": "Ole Martin Kristiansen",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.9.4",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
